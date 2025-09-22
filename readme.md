@@ -1,4 +1,4 @@
-git@github.com:kurumi177/posmotri-v-okno-fd.git
+https://github.com/kurumi177/posmotri-v-okno-fd
 
 # Посмотри в окно
 
